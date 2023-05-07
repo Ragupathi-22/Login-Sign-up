@@ -1,0 +1,92 @@
+#outerdiv{
+    border: 1px solid black;
+    height: 630px;
+    width: 100%;
+    text-align: center;
+    background-image: url(./signup3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#innerdiv{
+    /* border: 1px solid black; */
+    background-color: rgb(130, 189, 197);
+    height: 500px;
+    width: 360px;
+    margin-top: 40px;
+    margin-left: 480px;
+    padding-top: 20px;
+   border-radius: 10px;
+}
+#h2div{
+    /* border: 1px solid black; */
+    height: 30px;
+}
+#namediv{
+    /* border: 1px solid black; */
+    height: 80px;
+    margin-top: 8px;
+}
+#emaildiv{
+    /* border: 1px solid black; */
+    padding-left: 26px;
+    height: 80px;
+   
+}
+#pass1div{
+    /* border: 1px solid black; */
+    padding-right: 26px;
+    height: 80px;
+    position: absolute;
+    margin-left: 25px;
+ 
+}
+#pass2div
+{
+    /* border: 1px solid black; */
+    padding-right: 45px;
+    height: 80px;
+    position: absolute;
+   margin-top: 85px;
+   margin-left: 0px;
+}
+#btndiv{
+    /* border: 1px solid black; */
+    margin-top:180px;
+}
+#linkdiv{
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    position: relative;
+    
+   
+}
+p{
+    color: red;
+    display: none;
+}
+label{
+    margin-left: 0px;
+}
+#confirmpara{
+    color: green;
+}
+#flagdiv{
+    display: flex;
+}
+ #flag,#flag1{
+     width: 20px;
+    display: none;
+} 
+#icondiv1{
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 2px;
+    left: 264px;
+}
+#icondiv2{
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 2px;
+    left: 289px;
+}
